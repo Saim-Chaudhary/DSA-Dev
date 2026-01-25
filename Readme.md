@@ -18,28 +18,6 @@ A collection of Data Structures and Algorithms solutions organized by topic. Thi
 
 ---
 
-## 📁 Topics Covered
-
-### Arrays & Hashing
-| Problem | Solutions |
-|---------|-----------|
-| Contains Duplicate | [Solution](DSA/Arrays%20%26%20Hashing/Contains%20Duplicate/Brute_Force.cpp) |
-| Valid Anagram | [Solution](DSA/Arrays%20%26%20Hashing/Valid%20Anagram/Brute_Force.cpp) |
-| Group Anagrams | [Solution](DSA/Arrays%20%26%20Hashing/Group%20Anagrams/Brute_Force.cpp) |
-| Maximum Frequency Number | [Solution](DSA/Arrays%20%26%20Hashing/Maximum%20Frequency%20Number/solution.cpp) |
-
-### Two Pointers
-| Problem | Solutions |
-|---------|-----------|
-| Valid Palindrome | [Solution](DSA/Two%20Pointers/Valid%20Palindrome/solution.cpp) |
-
-### Patterns
-| Pattern | Solution |
-|---------|----------|
-| Rectangular/Square | [Solution](DSA/Patterns/Rectangular_Square.cpp) |
-
----
-
 ## 🎯 Roadmap
 
 - [x] Arrays & Hashing
