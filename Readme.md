@@ -44,7 +44,7 @@ A collection of Data Structures and Algorithms solutions organized by topic. Thi
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/DSA-Dev.git
+git clone https://github.com/Saim-Chaudhary/DSA-Dev.git
 
 # Navigate to a problem
 cd DSA/Arrays\ \&\ Hashing/Contains\ Duplicate
