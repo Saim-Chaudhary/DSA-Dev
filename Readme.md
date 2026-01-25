@@ -31,7 +31,7 @@ A collection of Data Structures and Algorithms solutions organized by topic. Thi
 ### Two Pointers
 | Problem | Solutions |
 |---------|-----------|
-| Valid Palindrome | [Two Pointer O(n)](DSA/Two%20Pointers/Valid%20Palindrome/solution.cpp) |
+| Valid Palindrome | [Solution](DSA/Two%20Pointers/Valid%20Palindrome/solution.cpp) |
 
 ### Patterns
 | Pattern | Solution |
