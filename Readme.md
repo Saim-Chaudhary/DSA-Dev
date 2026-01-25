@@ -8,9 +8,9 @@ A collection of Data Structures and Algorithms solutions organized by topic. Thi
 
 | # | Problem | Difficulty | Topic | Solution |
 |---|---------|------------|-------|----------|
-| 1 | Contains Duplicate | Easy | Arrays & Hashing | [Brute Force](DSA/Arrays%20%26%20Hashing/Contains%20Duplicate/Brute_Force.cpp) |
-| 2 | Valid Anagram | Easy | Arrays & Hashing | [Brute Force](DSA/Arrays%20%26%20Hashing/Valid%20Anagram/Brute_Force.cpp) |
-| 3 | Group Anagrams | Medium | Arrays & Hashing | [Brute Force](DSA/Arrays%20%26%20Hashing/Group%20Anagrams/Brute_Force.cpp) |
+| 1 | Contains Duplicate | Easy | Arrays & Hashing | [Solution](DSA/Arrays%20%26%20Hashing/Contains%20Duplicate/Brute_Force.cpp) |
+| 2 | Valid Anagram | Easy | Arrays & Hashing | [Solution](DSA/Arrays%20%26%20Hashing/Valid%20Anagram/Brute_Force.cpp) |
+| 3 | Group Anagrams | Medium | Arrays & Hashing | [Solution](DSA/Arrays%20%26%20Hashing/Group%20Anagrams/Brute_Force.cpp) |
 | 4 | Maximum Frequency Number | Easy | Arrays & Hashing | [Solution](DSA/Arrays%20%26%20Hashing/Maximum%20Frequency%20Number/solution.cpp) |
 | 5 | Valid Palindrome | Easy | Two Pointers | [Solution](DSA/Two%20Pointers/Valid%20Palindrome/solution.cpp) |
 
@@ -23,9 +23,9 @@ A collection of Data Structures and Algorithms solutions organized by topic. Thi
 ### Arrays & Hashing
 | Problem | Solutions |
 |---------|-----------|
-| Contains Duplicate | [Brute Force O(n²)](DSA/Arrays%20%26%20Hashing/Contains%20Duplicate/Brute_Force.cpp) |
-| Valid Anagram | [Brute Force O(n log n)](DSA/Arrays%20%26%20Hashing/Valid%20Anagram/Brute_Force.cpp) |
-| Group Anagrams | [Brute Force](DSA/Arrays%20%26%20Hashing/Group%20Anagrams/Brute_Force.cpp) |
+| Contains Duplicate | [Solution](DSA/Arrays%20%26%20Hashing/Contains%20Duplicate/Brute_Force.cpp) |
+| Valid Anagram | [Solution](DSA/Arrays%20%26%20Hashing/Valid%20Anagram/Brute_Force.cpp) |
+| Group Anagrams | [Solution](DSA/Arrays%20%26%20Hashing/Group%20Anagrams/Brute_Force.cpp) |
 | Maximum Frequency Number | [Solution](DSA/Arrays%20%26%20Hashing/Maximum%20Frequency%20Number/solution.cpp) |
 
 ### Two Pointers
