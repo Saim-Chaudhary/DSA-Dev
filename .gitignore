@@ -1,0 +1,24 @@
+# Compiled executables
+*.exe
+*.out
+*.o
+*.obj
+
+# Compiled C++ files
+solution
+a.out
+
+# VS Code
+.vscode/
+
+# IDE files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Temporary files
+*.log
+*.tmp
+*.swp
+*~
